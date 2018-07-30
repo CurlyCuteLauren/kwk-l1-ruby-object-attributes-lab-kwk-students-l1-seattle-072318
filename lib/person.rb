@@ -1,3 +1,4 @@
 class Person 
-  def person = (person)
+  def job = (job)
+    @job
     # person.rb
