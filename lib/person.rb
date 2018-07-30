@@ -1,1 +1,3 @@
-# person.rb
+class Person 
+  def person = (person)
+    # person.rb
